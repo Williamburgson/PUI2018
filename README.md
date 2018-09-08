@@ -1,2 +1,0 @@
-# PUI2018
-For PUI at CUSP NYU
