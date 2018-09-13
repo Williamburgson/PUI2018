@@ -1,6 +1,6 @@
 # PUI2018_gw105
 
-![Alt text](../HW1_gw1054/PUI_HW1_ScreenShot.png)
+![Alt text](PUI2018_gw1054/HW1_gw1054/PUI_HW1_ScreenShot.png)
 
 
 
