@@ -1,3 +1,5 @@
 # Homework 3
 ## Part 1
-![alt text] 
+![alt text] Rep.png
+![alt text] Rep_hist.png
+
