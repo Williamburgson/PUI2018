@@ -10,4 +10,11 @@ Delete both the file and the history of it.
 ![Alt text](Rep.png)
 ![Alt text](Rep_history.png)
 
+## Part 2
+Create dataframe through read_csv method
 
+Display the first couple roles of the dataframe using dataframe.head
+
+Slicing the dataframe by column names
+
+Plot the dataframe using dataframe.plot
