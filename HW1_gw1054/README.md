@@ -17,8 +17,8 @@ check command pui2018
 
 ## Screenshots
 
-![Alt text](HW1_gw1054/PUI_HW1_ScreenShot.png)
-![Alt text](HW1_gw1054/PUI_HW_1_ScreenShot2.png)
+![Alt text](PUI_HW1_ScreenShot.png)
+![Alt text](PUI_HW_1_ScreenShot2.png)
     
   
     
