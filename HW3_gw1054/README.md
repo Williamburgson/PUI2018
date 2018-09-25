@@ -19,3 +19,12 @@ Display the first couple roles of the dataframe using dataframe.head
 Slicing the dataframe by column names
 
 Plot the dataframe using dataframe.plot
+
+## Part 3 and 4
+Create a complete api with command line arguments
+
+Request data from the api and store the json object
+
+Extract the portion of the data that is needed
+
+Output to terminal or print to csv file
