@@ -1,3 +1,5 @@
+This Rewiew is written by rs6431.
+
 ### a. verify the Null and alternative hypotheses: 
 The Null and Alternative hypothesis meet the idea and are also testable. Specifically, the hypothesis contains three key parts. First is "statistics", which refers to "the trip duration". Second is "sample", which refers to "riders born before or in year 1960/riders born after 1960". Third is "quantities that can be measured", which refers to "longer/same/shorter" of the duration. 
 
