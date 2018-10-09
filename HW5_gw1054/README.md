@@ -11,4 +11,4 @@
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 |Correlation|1, Quantitative imaging phenotypes|continuous |1, expression of specific markers of hypoxia|continuous |N/A|N/A|How strong does quantitative imaging phenotypes correlates with expression of specific markers of hypoxia| quantitative imaging phenotypes does not correlate with expression of specific markers of hypoxia| 0.05 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0132953|
 
-![...]()
+![...](journal.pone.0132953.t002.PNG)
