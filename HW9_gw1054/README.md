@@ -12,3 +12,6 @@ Generated data through np.linspace
 Fitted models to the data using statsmodel OLS and WLS
 
 Created plots of the data, errorbars, and the line of fit
+
+# Assignment 3
+Individual work
